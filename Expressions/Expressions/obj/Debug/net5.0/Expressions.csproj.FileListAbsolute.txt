@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\Expressions\Expressions\bin\Debug\net5.0\Expressions.exe
+C:\Users\tjtics\source\repos\Expressions\Expressions\bin\Debug\net5.0\Expressions.deps.json
+C:\Users\tjtics\source\repos\Expressions\Expressions\bin\Debug\net5.0\Expressions.runtimeconfig.json
+C:\Users\tjtics\source\repos\Expressions\Expressions\bin\Debug\net5.0\Expressions.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\Expressions\Expressions\bin\Debug\net5.0\Expressions.dll
+C:\Users\tjtics\source\repos\Expressions\Expressions\bin\Debug\net5.0\ref\Expressions.dll
+C:\Users\tjtics\source\repos\Expressions\Expressions\bin\Debug\net5.0\Expressions.pdb
+C:\Users\tjtics\source\repos\Expressions\Expressions\obj\Debug\net5.0\Expressions.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\Expressions\Expressions\obj\Debug\net5.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\Expressions\Expressions\obj\Debug\net5.0\Expressions.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\Expressions\Expressions\obj\Debug\net5.0\Expressions.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\Expressions\Expressions\obj\Debug\net5.0\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\Expressions\Expressions\obj\Debug\net5.0\Expressions.dll
+C:\Users\tjtics\source\repos\Expressions\Expressions\obj\Debug\net5.0\ref\Expressions.dll
+C:\Users\tjtics\source\repos\Expressions\Expressions\obj\Debug\net5.0\Expressions.pdb
+C:\Users\tjtics\source\repos\Expressions\Expressions\obj\Debug\net5.0\Expressions.genruntimeconfig.cache

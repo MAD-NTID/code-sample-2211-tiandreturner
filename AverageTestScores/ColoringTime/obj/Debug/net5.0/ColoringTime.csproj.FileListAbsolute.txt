@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\bin\Debug\net5.0\ColoringTime.exe
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\bin\Debug\net5.0\ColoringTime.deps.json
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\bin\Debug\net5.0\ColoringTime.runtimeconfig.json
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\bin\Debug\net5.0\ColoringTime.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\bin\Debug\net5.0\ColoringTime.dll
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\bin\Debug\net5.0\ref\ColoringTime.dll
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\bin\Debug\net5.0\ColoringTime.pdb
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\obj\Debug\net5.0\ColoringTime.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\obj\Debug\net5.0\ColoringTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\obj\Debug\net5.0\ColoringTime.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\obj\Debug\net5.0\ColoringTime.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\obj\Debug\net5.0\ColoringTime.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\obj\Debug\net5.0\ColoringTime.dll
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\obj\Debug\net5.0\ref\ColoringTime.dll
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\obj\Debug\net5.0\ColoringTime.pdb
+C:\Users\tjtics\source\repos\AverageTestScores\ColoringTime\obj\Debug\net5.0\ColoringTime.genruntimeconfig.cache

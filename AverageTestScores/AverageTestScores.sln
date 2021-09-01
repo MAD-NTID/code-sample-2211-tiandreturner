@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageTestScores", "AverageTestScores\AverageTestScores.csproj", "{553779A9-7171-4113-9309-0E8447FFFEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColoringTime", "ColoringTime\ColoringTime.csproj", "{1E6772CE-357A-4D6B-9A25-E051EB6BB9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553779A9-7171-4113-9309-0E8447FFFEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553779A9-7171-4113-9309-0E8447FFFEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553779A9-7171-4113-9309-0E8447FFFEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553779A9-7171-4113-9309-0E8447FFFEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6772CE-357A-4D6B-9A25-E051EB6BB9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6772CE-357A-4D6B-9A25-E051EB6BB9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6772CE-357A-4D6B-9A25-E051EB6BB9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6772CE-357A-4D6B-9A25-E051EB6BB9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA8B74C-9A06-49DF-8A23-C5D5F1E6269B}
+	EndGlobalSection
+EndGlobal

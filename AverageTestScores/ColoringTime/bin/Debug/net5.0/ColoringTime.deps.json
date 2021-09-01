@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ColoringTime/1.0.0": {
+        "runtime": {
+          "ColoringTime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ColoringTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

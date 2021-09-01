@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\bin\Debug\net5.0\AverageTestScores.exe
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\bin\Debug\net5.0\AverageTestScores.deps.json
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\bin\Debug\net5.0\AverageTestScores.runtimeconfig.json
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\bin\Debug\net5.0\AverageTestScores.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\bin\Debug\net5.0\AverageTestScores.dll
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\bin\Debug\net5.0\ref\AverageTestScores.dll
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\bin\Debug\net5.0\AverageTestScores.pdb
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\obj\Debug\net5.0\AverageTestScores.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\obj\Debug\net5.0\AverageTestScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\obj\Debug\net5.0\AverageTestScores.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\obj\Debug\net5.0\AverageTestScores.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\obj\Debug\net5.0\AverageTestScores.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\obj\Debug\net5.0\AverageTestScores.dll
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\obj\Debug\net5.0\ref\AverageTestScores.dll
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\obj\Debug\net5.0\AverageTestScores.pdb
+C:\Users\tjtics\source\repos\AverageTestScores\AverageTestScores\obj\Debug\net5.0\AverageTestScores.genruntimeconfig.cache
