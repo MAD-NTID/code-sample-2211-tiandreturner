@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\bin\Debug\net5.0\BasicReviews.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\bin\Debug\net5.0\BasicReviews.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\bin\Debug\net5.0\BasicReviews.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\bin\Debug\net5.0\BasicReviews.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\bin\Debug\net5.0\BasicReviews.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\bin\Debug\net5.0\ref\BasicReviews.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\bin\Debug\net5.0\BasicReviews.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\obj\Debug\net5.0\BasicReviews.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\obj\Debug\net5.0\BasicReviews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\obj\Debug\net5.0\BasicReviews.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\obj\Debug\net5.0\BasicReviews.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\obj\Debug\net5.0\BasicReviews.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\obj\Debug\net5.0\BasicReviews.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\obj\Debug\net5.0\ref\BasicReviews.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\obj\Debug\net5.0\BasicReviews.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicReviews\BasicReviews\obj\Debug\net5.0\BasicReviews.genruntimeconfig.cache
