@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\bin\Debug\net5.0\BasicDecisions.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\bin\Debug\net5.0\BasicDecisions.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\bin\Debug\net5.0\BasicDecisions.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\bin\Debug\net5.0\BasicDecisions.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\bin\Debug\net5.0\BasicDecisions.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\bin\Debug\net5.0\ref\BasicDecisions.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\bin\Debug\net5.0\BasicDecisions.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\obj\Debug\net5.0\BasicDecisions.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\obj\Debug\net5.0\BasicDecisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\obj\Debug\net5.0\BasicDecisions.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\obj\Debug\net5.0\BasicDecisions.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\obj\Debug\net5.0\BasicDecisions.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\obj\Debug\net5.0\BasicDecisions.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\obj\Debug\net5.0\ref\BasicDecisions.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\obj\Debug\net5.0\BasicDecisions.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\BasicDecisions\BasicDecisions\obj\Debug\net5.0\BasicDecisions.genruntimeconfig.cache
