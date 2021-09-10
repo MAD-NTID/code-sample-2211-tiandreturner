@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\bin\Debug\net5.0\Commission-.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\bin\Debug\net5.0\Commission-.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\bin\Debug\net5.0\Commission-.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\bin\Debug\net5.0\Commission-.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\bin\Debug\net5.0\Commission-.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\bin\Debug\net5.0\ref\Commission-.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\bin\Debug\net5.0\Commission-.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\obj\Debug\net5.0\Commission-.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\obj\Debug\net5.0\Commission-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\obj\Debug\net5.0\Commission-.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\obj\Debug\net5.0\Commission-.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\obj\Debug\net5.0\Commission-.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\obj\Debug\net5.0\Commission-.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\obj\Debug\net5.0\ref\Commission-.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\obj\Debug\net5.0\Commission-.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\Commission-\Commission-\obj\Debug\net5.0\Commission-.genruntimeconfig.cache
