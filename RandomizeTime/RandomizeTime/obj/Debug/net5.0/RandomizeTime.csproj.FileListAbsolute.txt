@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\bin\Debug\net5.0\RandomizeTime.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\bin\Debug\net5.0\RandomizeTime.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\bin\Debug\net5.0\RandomizeTime.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\bin\Debug\net5.0\RandomizeTime.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\bin\Debug\net5.0\RandomizeTime.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\bin\Debug\net5.0\ref\RandomizeTime.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\bin\Debug\net5.0\RandomizeTime.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\obj\Debug\net5.0\RandomizeTime.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\obj\Debug\net5.0\RandomizeTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\obj\Debug\net5.0\RandomizeTime.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\obj\Debug\net5.0\RandomizeTime.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\obj\Debug\net5.0\RandomizeTime.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\obj\Debug\net5.0\RandomizeTime.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\obj\Debug\net5.0\ref\RandomizeTime.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\obj\Debug\net5.0\RandomizeTime.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTime\obj\Debug\net5.0\RandomizeTime.genruntimeconfig.cache
