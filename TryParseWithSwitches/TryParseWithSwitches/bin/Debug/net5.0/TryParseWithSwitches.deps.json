@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TryParseWithSwitches/1.0.0": {
+        "runtime": {
+          "TryParseWithSwitches.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TryParseWithSwitches/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

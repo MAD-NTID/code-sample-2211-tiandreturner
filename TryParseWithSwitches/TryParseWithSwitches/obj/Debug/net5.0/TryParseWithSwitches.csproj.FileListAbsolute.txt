@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\bin\Debug\net5.0\TryParseWithSwitches.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\bin\Debug\net5.0\TryParseWithSwitches.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\bin\Debug\net5.0\TryParseWithSwitches.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\bin\Debug\net5.0\TryParseWithSwitches.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\bin\Debug\net5.0\TryParseWithSwitches.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\bin\Debug\net5.0\ref\TryParseWithSwitches.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\bin\Debug\net5.0\TryParseWithSwitches.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\obj\Debug\net5.0\TryParseWithSwitches.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\obj\Debug\net5.0\TryParseWithSwitches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\obj\Debug\net5.0\TryParseWithSwitches.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\obj\Debug\net5.0\TryParseWithSwitches.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\obj\Debug\net5.0\TryParseWithSwitches.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\obj\Debug\net5.0\TryParseWithSwitches.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\obj\Debug\net5.0\ref\TryParseWithSwitches.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\obj\Debug\net5.0\TryParseWithSwitches.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\TryParseWithSwitches\TryParseWithSwitches\obj\Debug\net5.0\TryParseWithSwitches.genruntimeconfig.cache
