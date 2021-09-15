@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\bin\Debug\net5.0\MathTime.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\bin\Debug\net5.0\MathTime.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\bin\Debug\net5.0\MathTime.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\bin\Debug\net5.0\MathTime.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\bin\Debug\net5.0\MathTime.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\bin\Debug\net5.0\ref\MathTime.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\bin\Debug\net5.0\MathTime.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\obj\Debug\net5.0\MathTime.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\obj\Debug\net5.0\MathTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\obj\Debug\net5.0\MathTime.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\obj\Debug\net5.0\MathTime.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\obj\Debug\net5.0\MathTime.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\obj\Debug\net5.0\MathTime.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\obj\Debug\net5.0\ref\MathTime.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\obj\Debug\net5.0\MathTime.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MathTime\MathTime\obj\Debug\net5.0\MathTime.genruntimeconfig.cache
