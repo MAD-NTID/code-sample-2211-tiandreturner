@@ -1,0 +1,15 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\bin\Debug\net5.0\DazeInDecisions.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\bin\Debug\net5.0\DazeInDecisions.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\bin\Debug\net5.0\DazeInDecisions.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\bin\Debug\net5.0\DazeInDecisions.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\bin\Debug\net5.0\DazeInDecisions.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\bin\Debug\net5.0\ref\DazeInDecisions.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\bin\Debug\net5.0\DazeInDecisions.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\DazeInDecisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\DazeInDecisions.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\DazeInDecisions.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\DazeInDecisions.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\DazeInDecisions.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\ref\DazeInDecisions.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\DazeInDecisions.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\DazeInDecisions.genruntimeconfig.cache
