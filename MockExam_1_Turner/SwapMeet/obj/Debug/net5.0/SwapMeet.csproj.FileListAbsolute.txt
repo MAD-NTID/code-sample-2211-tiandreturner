@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\bin\Debug\net5.0\SwapMeet.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\bin\Debug\net5.0\SwapMeet.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\bin\Debug\net5.0\SwapMeet.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\bin\Debug\net5.0\SwapMeet.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\bin\Debug\net5.0\SwapMeet.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\bin\Debug\net5.0\ref\SwapMeet.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\bin\Debug\net5.0\SwapMeet.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\obj\Debug\net5.0\SwapMeet.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\obj\Debug\net5.0\SwapMeet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\obj\Debug\net5.0\SwapMeet.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\obj\Debug\net5.0\SwapMeet.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\obj\Debug\net5.0\SwapMeet.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\obj\Debug\net5.0\SwapMeet.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\obj\Debug\net5.0\ref\SwapMeet.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\obj\Debug\net5.0\SwapMeet.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\SwapMeet\obj\Debug\net5.0\SwapMeet.genruntimeconfig.cache

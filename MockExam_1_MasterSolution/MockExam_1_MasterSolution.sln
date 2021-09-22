@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapMeet", "MockExam_1_MasterSolution\SwapMeet.csproj", "{C791416C-6E55-47A7-91D7-8FD0E76191D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WingsHeaven", "WingsHeaven\WingsHeaven.csproj", "{64E65819-3E8F-4EFE-8759-6B061C552188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C791416C-6E55-47A7-91D7-8FD0E76191D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C791416C-6E55-47A7-91D7-8FD0E76191D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C791416C-6E55-47A7-91D7-8FD0E76191D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C791416C-6E55-47A7-91D7-8FD0E76191D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E65819-3E8F-4EFE-8759-6B061C552188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E65819-3E8F-4EFE-8759-6B061C552188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E65819-3E8F-4EFE-8759-6B061C552188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E65819-3E8F-4EFE-8759-6B061C552188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {063057EC-3C47-4A2B-B3FC-8D0E95432904}
+	EndGlobalSection
+EndGlobal

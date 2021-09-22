@@ -1,0 +1,16 @@
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\bin\Debug\net5.0\WingsHeaven.exe
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\bin\Debug\net5.0\WingsHeaven.deps.json
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\bin\Debug\net5.0\WingsHeaven.runtimeconfig.json
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\bin\Debug\net5.0\WingsHeaven.runtimeconfig.dev.json
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\bin\Debug\net5.0\WingsHeaven.dll
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\bin\Debug\net5.0\ref\WingsHeaven.dll
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\bin\Debug\net5.0\WingsHeaven.pdb
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\obj\Debug\net5.0\WingsHeaven.csproj.AssemblyReference.cache
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\obj\Debug\net5.0\WingsHeaven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\obj\Debug\net5.0\WingsHeaven.AssemblyInfoInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\obj\Debug\net5.0\WingsHeaven.AssemblyInfo.cs
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\obj\Debug\net5.0\WingsHeaven.csproj.CoreCompileInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\obj\Debug\net5.0\WingsHeaven.dll
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\obj\Debug\net5.0\ref\WingsHeaven.dll
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\obj\Debug\net5.0\WingsHeaven.pdb
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 12 - Mock Practical Exam I\MockExam_1_MasterSolution\WingsHeaven\obj\Debug\net5.0\WingsHeaven.genruntimeconfig.cache

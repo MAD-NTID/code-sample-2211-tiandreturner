@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\bin\Debug\net5.0\WingsHeaven.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\bin\Debug\net5.0\WingsHeaven.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\bin\Debug\net5.0\WingsHeaven.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\bin\Debug\net5.0\WingsHeaven.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\bin\Debug\net5.0\WingsHeaven.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\bin\Debug\net5.0\ref\WingsHeaven.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\bin\Debug\net5.0\WingsHeaven.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\obj\Debug\net5.0\WingsHeaven.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\obj\Debug\net5.0\WingsHeaven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\obj\Debug\net5.0\WingsHeaven.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\obj\Debug\net5.0\WingsHeaven.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\obj\Debug\net5.0\WingsHeaven.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\obj\Debug\net5.0\WingsHeaven.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\obj\Debug\net5.0\ref\WingsHeaven.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\obj\Debug\net5.0\WingsHeaven.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MockExam_1_Turner\WingsHeaven\obj\Debug\net5.0\WingsHeaven.genruntimeconfig.cache

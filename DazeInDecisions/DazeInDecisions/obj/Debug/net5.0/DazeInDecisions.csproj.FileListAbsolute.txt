@@ -13,3 +13,4 @@ C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\Daze
 C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\ref\DazeInDecisions.dll
 C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\DazeInDecisions.pdb
 C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\DazeInDecisions.genruntimeconfig.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DazeInDecisions\DazeInDecisions\obj\Debug\net5.0\DazeInDecisions.csproj.AssemblyReference.cache
