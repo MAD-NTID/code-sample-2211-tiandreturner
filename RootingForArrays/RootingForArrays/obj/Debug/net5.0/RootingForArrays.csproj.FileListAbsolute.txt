@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\bin\Debug\net5.0\RootingForArrays.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\bin\Debug\net5.0\RootingForArrays.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\bin\Debug\net5.0\RootingForArrays.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\bin\Debug\net5.0\RootingForArrays.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\bin\Debug\net5.0\RootingForArrays.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\bin\Debug\net5.0\ref\RootingForArrays.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\bin\Debug\net5.0\RootingForArrays.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\obj\Debug\net5.0\RootingForArrays.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\obj\Debug\net5.0\RootingForArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\obj\Debug\net5.0\RootingForArrays.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\obj\Debug\net5.0\RootingForArrays.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\obj\Debug\net5.0\RootingForArrays.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\obj\Debug\net5.0\RootingForArrays.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\obj\Debug\net5.0\ref\RootingForArrays.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\obj\Debug\net5.0\RootingForArrays.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RootingForArrays\RootingForArrays\obj\Debug\net5.0\RootingForArrays.genruntimeconfig.cache
