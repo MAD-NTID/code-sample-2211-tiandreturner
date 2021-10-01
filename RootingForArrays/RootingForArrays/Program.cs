@@ -8,6 +8,7 @@ namespace RootingForArrays
         {
             const int SIZE = 24;
             int[] numbers = new int[SIZE];
+            // string[] names = new string[SIZE];
             string[] names = {"C++ Boy", "Joe", 
                 "PickleJeff", "PickleRick", 
                 "Ho li Sheet", "Double Sandwich", 

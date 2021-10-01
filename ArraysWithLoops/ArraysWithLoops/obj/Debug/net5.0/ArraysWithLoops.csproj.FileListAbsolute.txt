@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\bin\Debug\net5.0\ArraysWithLoops.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\bin\Debug\net5.0\ArraysWithLoops.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\bin\Debug\net5.0\ArraysWithLoops.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\bin\Debug\net5.0\ArraysWithLoops.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\bin\Debug\net5.0\ArraysWithLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\bin\Debug\net5.0\ref\ArraysWithLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\bin\Debug\net5.0\ArraysWithLoops.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\obj\Debug\net5.0\ArraysWithLoops.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\obj\Debug\net5.0\ArraysWithLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\obj\Debug\net5.0\ArraysWithLoops.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\obj\Debug\net5.0\ArraysWithLoops.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\obj\Debug\net5.0\ArraysWithLoops.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\obj\Debug\net5.0\ArraysWithLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\obj\Debug\net5.0\ref\ArraysWithLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\obj\Debug\net5.0\ArraysWithLoops.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ArraysWithLoops\ArraysWithLoops\obj\Debug\net5.0\ArraysWithLoops.genruntimeconfig.cache
