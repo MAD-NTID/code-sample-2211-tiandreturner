@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\bin\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\bin\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\bin\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\bin\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\bin\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\bin\Debug\net5.0\ref\RandomizeTimeWithMethodsAndLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\bin\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\obj\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\obj\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\obj\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\obj\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\obj\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\obj\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\obj\Debug\net5.0\ref\RandomizeTimeWithMethodsAndLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\obj\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\RandomizeTime\RandomizeTimeWithMethodsAndLoops\obj\Debug\net5.0\RandomizeTimeWithMethodsAndLoops.genruntimeconfig.cache

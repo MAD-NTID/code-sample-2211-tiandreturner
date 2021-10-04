@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\bin\Debug\net5.0\ref\MoreLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\obj\Debug\net5.0\ref\MoreLoops.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.genruntimeconfig.cache
