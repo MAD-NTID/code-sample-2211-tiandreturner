@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\bin\Debug\net5.0\PracticeWithMethods.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\bin\Debug\net5.0\PracticeWithMethods.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\bin\Debug\net5.0\PracticeWithMethods.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\bin\Debug\net5.0\PracticeWithMethods.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\bin\Debug\net5.0\PracticeWithMethods.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\bin\Debug\net5.0\ref\PracticeWithMethods.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\bin\Debug\net5.0\PracticeWithMethods.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\obj\Debug\net5.0\PracticeWithMethods.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\obj\Debug\net5.0\PracticeWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\obj\Debug\net5.0\PracticeWithMethods.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\obj\Debug\net5.0\PracticeWithMethods.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\obj\Debug\net5.0\PracticeWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\obj\Debug\net5.0\PracticeWithMethods.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\obj\Debug\net5.0\ref\PracticeWithMethods.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\obj\Debug\net5.0\PracticeWithMethods.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\PracticeWithMethods\PracticeWithMethods\obj\Debug\net5.0\PracticeWithMethods.genruntimeconfig.cache
