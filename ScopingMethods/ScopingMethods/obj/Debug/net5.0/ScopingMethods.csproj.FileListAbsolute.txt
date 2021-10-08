@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\bin\Debug\net5.0\ScopingMethods.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\bin\Debug\net5.0\ScopingMethods.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\bin\Debug\net5.0\ScopingMethods.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\bin\Debug\net5.0\ScopingMethods.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\bin\Debug\net5.0\ScopingMethods.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\bin\Debug\net5.0\ref\ScopingMethods.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\bin\Debug\net5.0\ScopingMethods.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\obj\Debug\net5.0\ScopingMethods.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\obj\Debug\net5.0\ScopingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\obj\Debug\net5.0\ScopingMethods.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\obj\Debug\net5.0\ScopingMethods.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\obj\Debug\net5.0\ScopingMethods.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\obj\Debug\net5.0\ScopingMethods.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\obj\Debug\net5.0\ref\ScopingMethods.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\obj\Debug\net5.0\ScopingMethods.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\ScopingMethods\obj\Debug\net5.0\ScopingMethods.genruntimeconfig.cache

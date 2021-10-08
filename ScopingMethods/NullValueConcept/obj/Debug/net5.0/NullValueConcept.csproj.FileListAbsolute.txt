@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\bin\Debug\net5.0\NullValueConcept.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\bin\Debug\net5.0\NullValueConcept.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\bin\Debug\net5.0\NullValueConcept.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\bin\Debug\net5.0\NullValueConcept.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\bin\Debug\net5.0\NullValueConcept.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\bin\Debug\net5.0\ref\NullValueConcept.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\bin\Debug\net5.0\NullValueConcept.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\obj\Debug\net5.0\NullValueConcept.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\obj\Debug\net5.0\NullValueConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\obj\Debug\net5.0\NullValueConcept.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\obj\Debug\net5.0\NullValueConcept.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\obj\Debug\net5.0\NullValueConcept.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\obj\Debug\net5.0\NullValueConcept.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\obj\Debug\net5.0\ref\NullValueConcept.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\obj\Debug\net5.0\NullValueConcept.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ScopingMethods\NullValueConcept\obj\Debug\net5.0\NullValueConcept.genruntimeconfig.cache
