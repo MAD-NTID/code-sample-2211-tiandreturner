@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\bin\Debug\net5.0\IntroToOOP.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\bin\Debug\net5.0\IntroToOOP.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\bin\Debug\net5.0\IntroToOOP.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\bin\Debug\net5.0\IntroToOOP.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\bin\Debug\net5.0\IntroToOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\bin\Debug\net5.0\ref\IntroToOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\bin\Debug\net5.0\IntroToOOP.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\obj\Debug\net5.0\IntroToOOP.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\obj\Debug\net5.0\IntroToOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\obj\Debug\net5.0\IntroToOOP.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\obj\Debug\net5.0\IntroToOOP.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\obj\Debug\net5.0\IntroToOOP.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\obj\Debug\net5.0\IntroToOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\obj\Debug\net5.0\ref\IntroToOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\obj\Debug\net5.0\IntroToOOP.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\IntroToOOP\obj\Debug\net5.0\IntroToOOP.genruntimeconfig.cache

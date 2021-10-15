@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\bin\Debug\net5.0\CarOOP.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\bin\Debug\net5.0\CarOOP.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\bin\Debug\net5.0\CarOOP.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\bin\Debug\net5.0\CarOOP.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\bin\Debug\net5.0\CarOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\bin\Debug\net5.0\ref\CarOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\bin\Debug\net5.0\CarOOP.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\obj\Debug\net5.0\CarOOP.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\obj\Debug\net5.0\CarOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\obj\Debug\net5.0\CarOOP.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\obj\Debug\net5.0\CarOOP.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\obj\Debug\net5.0\CarOOP.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\obj\Debug\net5.0\CarOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\obj\Debug\net5.0\ref\CarOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\obj\Debug\net5.0\CarOOP.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\IntroToOOP\CarOOP\obj\Debug\net5.0\CarOOP.genruntimeconfig.cache
