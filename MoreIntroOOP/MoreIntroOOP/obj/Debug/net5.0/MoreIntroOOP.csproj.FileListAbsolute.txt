@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\bin\Debug\net5.0\MoreIntroOOP.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\bin\Debug\net5.0\MoreIntroOOP.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\bin\Debug\net5.0\MoreIntroOOP.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\bin\Debug\net5.0\MoreIntroOOP.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\bin\Debug\net5.0\MoreIntroOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\bin\Debug\net5.0\ref\MoreIntroOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\bin\Debug\net5.0\MoreIntroOOP.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\obj\Debug\net5.0\MoreIntroOOP.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\obj\Debug\net5.0\MoreIntroOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\obj\Debug\net5.0\MoreIntroOOP.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\obj\Debug\net5.0\MoreIntroOOP.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\obj\Debug\net5.0\MoreIntroOOP.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\obj\Debug\net5.0\MoreIntroOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\obj\Debug\net5.0\ref\MoreIntroOOP.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\obj\Debug\net5.0\MoreIntroOOP.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\MoreIntroOOP\MoreIntroOOP\obj\Debug\net5.0\MoreIntroOOP.genruntimeconfig.cache
