@@ -1,0 +1,28 @@
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\obj\Debug\netcoreapp3.1\Unit24.csproj.AssemblyReference.cache
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\obj\Debug\netcoreapp3.1\Unit24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\obj\Debug\netcoreapp3.1\Unit24.AssemblyInfoInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\obj\Debug\netcoreapp3.1\Unit24.AssemblyInfo.cs
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\obj\Debug\netcoreapp3.1\Unit24.csproj.CoreCompileInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\bin\Debug\netcoreapp3.1\Unit24.exe
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\bin\Debug\netcoreapp3.1\Unit24.deps.json
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\bin\Debug\netcoreapp3.1\Unit24.runtimeconfig.json
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\bin\Debug\netcoreapp3.1\Unit24.runtimeconfig.dev.json
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\bin\Debug\netcoreapp3.1\Unit24.dll
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\bin\Debug\netcoreapp3.1\Unit24.pdb
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\obj\Debug\netcoreapp3.1\Unit24.dll
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\obj\Debug\netcoreapp3.1\Unit24.pdb
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 24 - Building on OOP\Unit24\Unit24\obj\Debug\netcoreapp3.1\Unit24.genruntimeconfig.cache
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\bin\Debug\netcoreapp3.1\Unit24.exe
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\bin\Debug\netcoreapp3.1\Unit24.deps.json
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\bin\Debug\netcoreapp3.1\Unit24.runtimeconfig.json
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\bin\Debug\netcoreapp3.1\Unit24.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\bin\Debug\netcoreapp3.1\Unit24.dll
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\bin\Debug\netcoreapp3.1\Unit24.pdb
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\obj\Debug\netcoreapp3.1\Unit24.csproj.AssemblyReference.cache
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\obj\Debug\netcoreapp3.1\Unit24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\obj\Debug\netcoreapp3.1\Unit24.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\obj\Debug\netcoreapp3.1\Unit24.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\obj\Debug\netcoreapp3.1\Unit24.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\obj\Debug\netcoreapp3.1\Unit24.dll
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\obj\Debug\netcoreapp3.1\Unit24.pdb
+C:\Users\tjtics\Downloads\Unit 24 - Demo Code\Unit 24 - Demo Code\Unit24\obj\Debug\netcoreapp3.1\Unit24.genruntimeconfig.cache
