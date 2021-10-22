@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\bin\Debug\net5.0\2DArrays.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\bin\Debug\net5.0\2DArrays.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\bin\Debug\net5.0\2DArrays.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\bin\Debug\net5.0\2DArrays.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\bin\Debug\net5.0\2DArrays.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\bin\Debug\net5.0\ref\2DArrays.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\bin\Debug\net5.0\2DArrays.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\obj\Debug\net5.0\2DArrays.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\obj\Debug\net5.0\2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\obj\Debug\net5.0\2DArrays.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\obj\Debug\net5.0\2DArrays.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\obj\Debug\net5.0\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\obj\Debug\net5.0\2DArrays.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\obj\Debug\net5.0\ref\2DArrays.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\obj\Debug\net5.0\2DArrays.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\2DArrays\2DArrays\obj\Debug\net5.0\2DArrays.genruntimeconfig.cache
