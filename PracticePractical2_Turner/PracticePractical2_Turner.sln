@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticePractical2_Turner", "PracticePractical2_Turner\PracticePractical2_Turner.csproj", "{6E3DAB67-B265-40FC-A9BF-63AA936CCCC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E3DAB67-B265-40FC-A9BF-63AA936CCCC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3DAB67-B265-40FC-A9BF-63AA936CCCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3DAB67-B265-40FC-A9BF-63AA936CCCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3DAB67-B265-40FC-A9BF-63AA936CCCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C1829A-C87A-4C09-B464-37FAFD75A5FC}
+	EndGlobalSection
+EndGlobal

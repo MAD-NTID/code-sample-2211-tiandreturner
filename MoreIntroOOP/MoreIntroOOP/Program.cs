@@ -49,6 +49,10 @@ namespace MoreIntroOOP
                     Console.WriteLine($"{car}\n");
                 
             }
+
+            Display("hi", 3);
+            //Display(3, "hi");
+            Display(number: 3, message: "hi");
         }
 
         // overloaded methods
@@ -57,7 +61,7 @@ namespace MoreIntroOOP
 
         }
 
-        public void Display(string message)
+        public static void Display(string message, int number)
         {
 
         }

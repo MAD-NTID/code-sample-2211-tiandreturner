@@ -1,0 +1,16 @@
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\obj\Debug\net5.0\PracticePractical2.csproj.AssemblyReference.cache
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\obj\Debug\net5.0\PracticePractical2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\obj\Debug\net5.0\PracticePractical2.AssemblyInfoInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\obj\Debug\net5.0\PracticePractical2.AssemblyInfo.cs
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\obj\Debug\net5.0\PracticePractical2.csproj.CoreCompileInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\bin\Debug\net5.0\PracticePractical2.exe
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\bin\Debug\net5.0\PracticePractical2.deps.json
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\bin\Debug\net5.0\PracticePractical2.runtimeconfig.json
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\bin\Debug\net5.0\PracticePractical2.runtimeconfig.dev.json
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\bin\Debug\net5.0\PracticePractical2.dll
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\bin\Debug\net5.0\ref\PracticePractical2.dll
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\bin\Debug\net5.0\PracticePractical2.pdb
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\obj\Debug\net5.0\PracticePractical2.dll
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\obj\Debug\net5.0\ref\PracticePractical2.dll
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\obj\Debug\net5.0\PracticePractical2.pdb
+C:\Users\msrvks\OneDrive - rit.edu\2211\NMAD180\Unit 26 - Practice Practical\PracticePractical2\PracticePractical2\obj\Debug\net5.0\PracticePractical2.genruntimeconfig.cache

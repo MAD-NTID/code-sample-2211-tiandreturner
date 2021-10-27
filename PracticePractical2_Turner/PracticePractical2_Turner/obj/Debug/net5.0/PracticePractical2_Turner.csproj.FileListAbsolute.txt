@@ -1,0 +1,16 @@
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\bin\Debug\net5.0\PracticePractical2_Turner.exe
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\bin\Debug\net5.0\PracticePractical2_Turner.deps.json
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\bin\Debug\net5.0\PracticePractical2_Turner.runtimeconfig.json
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\bin\Debug\net5.0\PracticePractical2_Turner.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\bin\Debug\net5.0\PracticePractical2_Turner.dll
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\bin\Debug\net5.0\ref\PracticePractical2_Turner.dll
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\bin\Debug\net5.0\PracticePractical2_Turner.pdb
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\obj\Debug\net5.0\PracticePractical2_Turner.csproj.AssemblyReference.cache
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\obj\Debug\net5.0\PracticePractical2_Turner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\obj\Debug\net5.0\PracticePractical2_Turner.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\obj\Debug\net5.0\PracticePractical2_Turner.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\obj\Debug\net5.0\PracticePractical2_Turner.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\obj\Debug\net5.0\PracticePractical2_Turner.dll
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\obj\Debug\net5.0\ref\PracticePractical2_Turner.dll
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\obj\Debug\net5.0\PracticePractical2_Turner.pdb
+C:\Users\tjtics\Downloads\PracticePractical2_Turner\PracticePractical2_Turner\obj\Debug\net5.0\PracticePractical2_Turner.genruntimeconfig.cache
