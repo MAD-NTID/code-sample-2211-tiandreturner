@@ -34,7 +34,7 @@ namespace PracticePractical2_Turner
                         ListBySpecies();
                         break;
                     case 4:
-                        //DisplayRecordCount();
+                        DisplayRecordCount();
                         break;
                     case 5:                     // exit
                         ExitProgram();
@@ -44,6 +44,21 @@ namespace PracticePractical2_Turner
                         break;
                 }
             }
+        }
+
+        private static void DisplayRecordCount()
+        {
+            int counter = 0;
+            foreach (Alien alien in aliens)
+            {
+                if (alien != null)
+                {
+                    Console.WriteLine(alien);
+                    counter++;
+                }
+            }
+
+            Console.WriteLine($"\t==> {counter} records displayed");
         }
 
         // This method will terimates the program.
@@ -196,6 +211,7 @@ namespace PracticePractical2_Turner
 
         private static int GetMenuSelection()
         {
+        
             int input;
             Console.WriteLine("Main Menu");
             Console.WriteLine("=========");
@@ -219,6 +235,7 @@ namespace PracticePractical2_Turner
             Console.Clear();
             Console.WriteLine("MAD4UFOS Data Collection System");
             Console.WriteLine(DateTime.Now.ToString());
+        
         }
     }
 }
