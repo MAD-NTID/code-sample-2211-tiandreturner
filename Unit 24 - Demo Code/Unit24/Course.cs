@@ -46,6 +46,21 @@ namespace Unit24 {
             NumStudents = 0;
         }
 
+        public void CourseNameTest()
+        {
+
+        }
+
+        public int Whatever()
+        {
+            return 0;
+        }
+
+        public Course(int something)
+        {
+
+        }
+
         public Course(string courseName, 
             string courseNumber, 
             string instructor, int numStudents)

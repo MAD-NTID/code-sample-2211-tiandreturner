@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\bin\Debug\net5.0\CollectionTime!.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\bin\Debug\net5.0\CollectionTime!.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\bin\Debug\net5.0\CollectionTime!.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\bin\Debug\net5.0\CollectionTime!.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\bin\Debug\net5.0\CollectionTime!.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\bin\Debug\net5.0\ref\CollectionTime!.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\bin\Debug\net5.0\CollectionTime!.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\obj\Debug\net5.0\CollectionTime!.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\obj\Debug\net5.0\CollectionTime!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\obj\Debug\net5.0\CollectionTime!.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\obj\Debug\net5.0\CollectionTime!.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\obj\Debug\net5.0\CollectionTime!.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\obj\Debug\net5.0\CollectionTime!.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\obj\Debug\net5.0\ref\CollectionTime!.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\obj\Debug\net5.0\CollectionTime!.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CollectionTime!\CollectionTime!\obj\Debug\net5.0\CollectionTime!.genruntimeconfig.cache

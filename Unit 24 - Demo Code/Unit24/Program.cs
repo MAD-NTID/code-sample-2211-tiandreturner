@@ -5,11 +5,25 @@ namespace Unit24 {
 	class Program {
 		static Course[] courses = new Course[0];
 		static void Main( string[] args ) {
-			Console.WriteLine( "/nProgram Starts Here/n" );
-			GetData();
-			DisplayData();
-			Console.WriteLine( "\nAll Done -- Buh-bye!" );
-			Environment.Exit( 0 );
+			string hello = "hi";
+			int differentNumber = 3;
+
+			NamedParameter(hello, differentNumber);
+			NamedParameter(differentNumber, hello);
+			string name = "hi";;
+			int number = 3;
+
+			NamedParameter(name, number);
+
+			if(5 == 5)
+            {
+
+            }
+			//Console.WriteLine( "/nProgram Starts Here/n" );
+			//GetData();
+			//DisplayData();
+			//Console.WriteLine( "\nAll Done -- Buh-bye!" );
+			//Environment.Exit( 0 );
 		}
 
 		private static void GetData() {
@@ -53,7 +67,6 @@ namespace Unit24 {
 		}
 		private static void DisplayData() {
 			int totalStudents = 0; ;
-
 			for (int index = 0; index < courses.Length; index++ ) {
 				Utility.DisplayText($"Record {index}: {courses[index]}", ConsoleColor.Cyan);
 				courses[index].Display();
@@ -63,8 +76,14 @@ namespace Unit24 {
 				//totalStudents += courses[index].NumStudents;
 			}
 			Utility.DisplayText($"Total Number of Students: {totalStudents}", ConsoleColor.Blue);
-
+			
+			//NamedParameter(number: 3, name: "hi");
 		}
+
+		public static void NamedParameter(string name, int number)
+        {
+            Console.WriteLine($"{name} have {number}");
+        }
 
 	}
 }

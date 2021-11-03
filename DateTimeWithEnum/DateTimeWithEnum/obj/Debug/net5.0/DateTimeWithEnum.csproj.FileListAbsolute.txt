@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\bin\Debug\net5.0\DateTimeWithEnum.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\bin\Debug\net5.0\DateTimeWithEnum.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\bin\Debug\net5.0\DateTimeWithEnum.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\bin\Debug\net5.0\DateTimeWithEnum.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\bin\Debug\net5.0\DateTimeWithEnum.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\bin\Debug\net5.0\ref\DateTimeWithEnum.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\bin\Debug\net5.0\DateTimeWithEnum.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\obj\Debug\net5.0\DateTimeWithEnum.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\obj\Debug\net5.0\DateTimeWithEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\obj\Debug\net5.0\DateTimeWithEnum.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\obj\Debug\net5.0\DateTimeWithEnum.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\obj\Debug\net5.0\DateTimeWithEnum.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\obj\Debug\net5.0\DateTimeWithEnum.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\obj\Debug\net5.0\ref\DateTimeWithEnum.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\obj\Debug\net5.0\DateTimeWithEnum.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\DateTimeWithEnum\DateTimeWithEnum\obj\Debug\net5.0\DateTimeWithEnum.genruntimeconfig.cache
