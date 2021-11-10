@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\bin\Debug\net5.0\FileStreaming.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\bin\Debug\net5.0\FileStreaming.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\bin\Debug\net5.0\FileStreaming.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\bin\Debug\net5.0\FileStreaming.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\bin\Debug\net5.0\FileStreaming.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\bin\Debug\net5.0\ref\FileStreaming.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\bin\Debug\net5.0\FileStreaming.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\obj\Debug\net5.0\FileStreaming.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\obj\Debug\net5.0\FileStreaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\obj\Debug\net5.0\FileStreaming.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\obj\Debug\net5.0\FileStreaming.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\obj\Debug\net5.0\FileStreaming.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\obj\Debug\net5.0\FileStreaming.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\obj\Debug\net5.0\ref\FileStreaming.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\obj\Debug\net5.0\FileStreaming.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\FileStreaming\FileStreaming\obj\Debug\net5.0\FileStreaming.genruntimeconfig.cache
