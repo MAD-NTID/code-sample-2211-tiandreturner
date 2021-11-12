@@ -1,0 +1,15 @@
+Index: #0001
+Name: Bulbasaur
+Type: GRASS
+Height: 0.7
+Weight: 6.9
+Abilities:
+Overgrown     
+
+Index: #0002
+Name: Bulbasaur
+Type: GRASS
+Height: 0.7
+Weight: 6.9
+Abilities:
+Overgrown

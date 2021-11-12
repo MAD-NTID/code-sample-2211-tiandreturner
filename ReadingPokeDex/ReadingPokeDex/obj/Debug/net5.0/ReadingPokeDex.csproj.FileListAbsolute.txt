@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\bin\Debug\net5.0\ReadingPokeDex.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\bin\Debug\net5.0\ReadingPokeDex.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\bin\Debug\net5.0\ReadingPokeDex.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\bin\Debug\net5.0\ReadingPokeDex.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\bin\Debug\net5.0\ReadingPokeDex.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\bin\Debug\net5.0\ref\ReadingPokeDex.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\bin\Debug\net5.0\ReadingPokeDex.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\obj\Debug\net5.0\ReadingPokeDex.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\obj\Debug\net5.0\ReadingPokeDex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\obj\Debug\net5.0\ReadingPokeDex.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\obj\Debug\net5.0\ReadingPokeDex.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\obj\Debug\net5.0\ReadingPokeDex.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\obj\Debug\net5.0\ReadingPokeDex.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\obj\Debug\net5.0\ref\ReadingPokeDex.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\obj\Debug\net5.0\ReadingPokeDex.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\ReadingPokeDex\ReadingPokeDex\obj\Debug\net5.0\ReadingPokeDex.genruntimeconfig.cache

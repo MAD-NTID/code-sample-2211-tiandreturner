@@ -77,7 +77,8 @@ namespace Pokedex
             {
                 information += abilities[i] + " ";
             }
-            
+
+            information.Trim();
             return information;
         }
 

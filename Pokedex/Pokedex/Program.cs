@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Pokedex
 {
@@ -25,12 +26,53 @@ namespace Pokedex
                         ListAllPokemon();
                         break;
                     case 4:
+                        WriteToFile();
+                        break;
+                    case 5:
+                        ReadFromFile();
+                        break;
+                    case 6:
                         Console.WriteLine("BYE");
                         Environment.Exit(0);
                         break;
                 }
 
             }
+        }
+
+        private static void ReadFromFile()
+        {
+            if (File.Exists("pokemon.txt"))
+            {
+                using (StreamReader reader = new StreamReader("pokemon.txt"))
+                {
+                    while (!reader.EndOfStream)
+                    {
+                        Console.WriteLine(reader.ReadLine());
+                    }
+                }
+            }
+            else
+            {
+                Console.WriteLine("The file you looked for does not exist");
+            }
+        }
+
+        private static void WriteToFile()
+        {
+            using (StreamWriter writer = new StreamWriter("pokemon.txt"))
+            {
+                foreach (KeyValuePair<int, Pokemon> keyValue in pokemons)
+                {
+                    writer.WriteLine($"{keyValue.Value}");
+                   // writer.Flush();
+                }
+            }
+
+    
+            //writer.AutoFlush;
+
+            Console.WriteLine("Completed writing to pokemon.txt");
         }
 
         private static void RemovePokemon()
@@ -104,7 +146,9 @@ namespace Pokedex
             Console.WriteLine("1. Add a pokemon");
             Console.WriteLine("2. Remove a pokemon");
             Console.WriteLine("3. List all pokemon");
-            Console.WriteLine("4. Exit");
+            Console.WriteLine("4. Save to file");
+            Console.WriteLine("5. Load from File");
+            Console.WriteLine("6. Exit");
             Console.Write("Select one of these listed: ");
             if(!int.TryParse(Console.ReadLine(), out int choice))
             {
