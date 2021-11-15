@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\bin\Debug\net5.0\CSVDemo.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\bin\Debug\net5.0\CSVDemo.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\bin\Debug\net5.0\CSVDemo.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\bin\Debug\net5.0\CSVDemo.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\bin\Debug\net5.0\CSVDemo.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\bin\Debug\net5.0\ref\CSVDemo.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\bin\Debug\net5.0\CSVDemo.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\obj\Debug\net5.0\CSVDemo.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\obj\Debug\net5.0\CSVDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\obj\Debug\net5.0\CSVDemo.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\obj\Debug\net5.0\CSVDemo.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\obj\Debug\net5.0\CSVDemo.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\obj\Debug\net5.0\CSVDemo.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\obj\Debug\net5.0\ref\CSVDemo.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\obj\Debug\net5.0\CSVDemo.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\CSVDemo\CSVDemo\obj\Debug\net5.0\CSVDemo.genruntimeconfig.cache
