@@ -1,0 +1,16 @@
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\bin\Debug\net5.0\UpdatedPokeDex.exe
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\bin\Debug\net5.0\UpdatedPokeDex.deps.json
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\bin\Debug\net5.0\UpdatedPokeDex.runtimeconfig.json
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\bin\Debug\net5.0\UpdatedPokeDex.runtimeconfig.dev.json
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\bin\Debug\net5.0\UpdatedPokeDex.dll
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\bin\Debug\net5.0\ref\UpdatedPokeDex.dll
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\bin\Debug\net5.0\UpdatedPokeDex.pdb
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\obj\Debug\net5.0\UpdatedPokeDex.csproj.AssemblyReference.cache
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\obj\Debug\net5.0\UpdatedPokeDex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\obj\Debug\net5.0\UpdatedPokeDex.AssemblyInfoInputs.cache
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\obj\Debug\net5.0\UpdatedPokeDex.AssemblyInfo.cs
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\obj\Debug\net5.0\UpdatedPokeDex.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\obj\Debug\net5.0\UpdatedPokeDex.dll
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\obj\Debug\net5.0\ref\UpdatedPokeDex.dll
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\obj\Debug\net5.0\UpdatedPokeDex.pdb
+C:\Users\tjtics\OneDrive - rit.edu\Classes\NMAD-180\2211\Units\code-sample-2211-tiandreturner\UpdatedPokeDex\UpdatedPokeDex\obj\Debug\net5.0\UpdatedPokeDex.genruntimeconfig.cache
