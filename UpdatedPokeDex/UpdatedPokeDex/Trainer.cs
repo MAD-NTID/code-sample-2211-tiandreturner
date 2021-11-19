@@ -8,6 +8,8 @@ namespace UpdatedPokeDex
 {
     class Trainer
     {
+        private int id;
+        private static int trainerID = 1;
         private Pokemon[] battlePokemons;
         private List<Pokemon> pokedex;
         private string name;
@@ -25,6 +27,13 @@ namespace UpdatedPokeDex
 
         public string TrainerClass {  get; set; }
 
+        public int ID
+        {
+            get { return id; }
+            set { id = value; }
+        }
+
+
         public Pokemon[] BattlePokemons
         {
             get { return battlePokemons; }
@@ -34,6 +43,7 @@ namespace UpdatedPokeDex
         {
             battlePokemons = new Pokemon[6];
             pokedex = new List<Pokemon>();
+            id = trainerID++;
         }
 
         public void UpdateBattlePokemonsList(Pokemon starter)

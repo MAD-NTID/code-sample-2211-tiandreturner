@@ -1,4 +1,5 @@
 ﻿using System;
+using static UpdatedPokeDex.PokeDex;
 using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
@@ -76,7 +77,10 @@ namespace UpdatedPokeDex
 
         private static void ListAllTrainers()
         {
-            throw new NotImplementedException();
+            foreach (Trainer trainer in trainers)
+            {
+                Console.WriteLine($"Index: {trainer.ID} -- {trainer.Name}");
+            }
         }
 
         private static void CreateNewTrainer()
@@ -89,25 +93,25 @@ namespace UpdatedPokeDex
             Console.Write("Enter your trainer class: ");
             trainer.TrainerClass = Console.ReadLine();
 
-            foreach (KeyValuePair<int, List<Pokemon>> generations in generationStarters)
-            {
-                Console.WriteLine($"{generations.Key}. Generation {generations.Key:D2}");
-            }
+            //foreach (KeyValuePair<int, List<Pokemon>> generations in generationStarters)
+            //{
+            //    Console.WriteLine($"{generations.Key}. Generation {generations.Key:D2}");
+            //}
 
-            Console.Write("Select a generation to get the starter pokemons: ");
-            int selection = int.Parse(Console.ReadLine());
-            List<Pokemon> selectedGenerationStarters = generationStarters[selection];
+            //Console.Write("Select a generation to get the starter pokemons: ");
+            //int selection = int.Parse(Console.ReadLine());
+            //List<Pokemon> selectedGenerationStarters = generationStarters[selection];
 
-            for (int i = 0; i < selectedGenerationStarters.Count; i++)
-            {
-                Console.WriteLine($"{i + 1}. {selectedGenerationStarters[i]}");
-            }
+            //for (int i = 0; i < selectedGenerationStarters.Count; i++)
+            //{
+            //    Console.WriteLine($"{i + 1}. {selectedGenerationStarters[i]}");
+            //}
 
-            Console.Write("Select a starter pokemon: ");
-            selection = int.Parse(Console.ReadLine());
+            //Console.Write("Select a starter pokemon: ");
+            //selection = int.Parse(Console.ReadLine());
 
 
-
+            trainers.Add(trainer);
         }
 
         private static void ListAllPokemonStarters()
