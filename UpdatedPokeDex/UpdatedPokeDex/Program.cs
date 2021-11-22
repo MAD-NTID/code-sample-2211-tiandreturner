@@ -4,14 +4,15 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
+// got the CSV information from https://gist.github.com/armgilles/194bcff35001e7eb53a2a8b441e8b2c6
 namespace UpdatedPokeDex
 {
     class Program
     {
         static string pokemonCSVPath = "pokemon.csv";
         static string pokemonJSONPath = "pokemon.json";
-        static string pokemonJSONDictPath = @"C:\Users\tjtics\Downloads\pokemon_dict.json";
-        static string pokemonPropertiesJSONPath = @"C:\Users\tjtics\Downloads\pokemon_properties.json";
+        static string pokemonJSONDictPath = "pokemon_dict.json";
+        static string pokemonPropertiesJSONPath = "pokemon_properties.json";
         static string pokemonTilde = "pokemon-tilde.csv";
         static string[] menu =
         {

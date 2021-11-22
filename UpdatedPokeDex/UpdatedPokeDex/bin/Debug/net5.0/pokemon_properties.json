@@ -1,0 +1,17 @@
+[
+  {
+    "index": 1,
+    "name": "Bulbasaur",
+    "type_1": "Grass",
+    "type_2": "Poison",
+    "total": 318,
+    "hp": 45,
+    "attack_power": 49,
+    "defense_power": 49,
+    "special_attack_power": 65,
+    "special_defense_power": 65,
+    "speed": 45,
+    "generation": 1,
+    "legendary": false
+  }
+]
