@@ -11,5 +11,6 @@ namespace UpdatedPokeDex
         static public Dictionary<int, List<Pokemon>> pokedex = new Dictionary<int, List<Pokemon>>();
         static public Dictionary<string, List<Pokemon>> types = new Dictionary<string, List<Pokemon>>();
         static public Dictionary<int, List<Pokemon>> generationStarters = new Dictionary<int, List<Pokemon>>();
+        static public List<Pokemon> pokeDices = new List<Pokemon>();
     }
 }

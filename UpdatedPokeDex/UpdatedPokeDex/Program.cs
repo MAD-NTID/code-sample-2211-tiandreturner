@@ -10,6 +10,8 @@ namespace UpdatedPokeDex
     {
         static string pokemonCSVPath = "pokemon.csv";
         static string pokemonJSONPath = "pokemon.json";
+        static string pokemonJSONDictPath = @"C:\Users\tjtics\Downloads\pokemon_dict.json";
+        static string pokemonPropertiesJSONPath = @"C:\Users\tjtics\Downloads\pokemon_properties.json";
         static string pokemonTilde = "pokemon-tilde.csv";
         static string[] menu =
         {
@@ -130,20 +132,20 @@ namespace UpdatedPokeDex
         private static void ListAllPokemon()
         {
             // using dictionary
-            foreach (KeyValuePair<int, List<Pokemon>> pokemons in pokedex)
-            {
-                Console.WriteLine($"{$"#{pokemons.Key:D3}",11}\n___________________\n");
-                foreach (Pokemon pokemon in pokemons.Value)
-                {
-                    Console.WriteLine($"{pokemon}\n");
-                }
-            }
+            //foreach (KeyValuePair<int, List<Pokemon>> pokemons in pokedex)
+            //{
+            //    Console.WriteLine($"{$"#{pokemons.Key:D3}",11}\n___________________\n");
+            //    foreach (Pokemon pokemon in pokemons.Value)
+            //    {
+            //        Console.WriteLine($"{pokemon}\n");
+            //    }
+            //}
 
             // using list
-            //foreach (Pokemon pokemon in pokemons)
-            //{
-            //    Console.WriteLine(pokemon);
-            //}
+            foreach (Pokemon pokemon in pokeDices)
+            {
+                Console.WriteLine(pokemon);
+            }
         }
 
         private static void ListAllPokemonByType()
@@ -178,7 +180,7 @@ namespace UpdatedPokeDex
         {
             Console.WriteLine("Writing to JSON....");
             string pokemonStr = JsonConvert.SerializeObject(pokedex);
-            StreamWriter writer = new StreamWriter(pokemonJSONPath);
+            StreamWriter writer = new StreamWriter(pokemonJSONDictPath);
             writer.Write(pokemonStr);
             writer.Close();
             Console.WriteLine("Finished writing to JSON...");
@@ -189,9 +191,10 @@ namespace UpdatedPokeDex
         private static void LoadFromJSON()
         {
             Console.WriteLine("Reading from JSON...");
-            StreamReader reader = new StreamReader(pokemonJSONPath);
+            StreamReader reader = new StreamReader(pokemonPropertiesJSONPath);
             string pokemonStr = reader.ReadToEnd();
-            pokedex = JsonConvert.DeserializeObject<Dictionary<int, List<Pokemon>>>(pokemonStr);
+            //pokedex = JsonConvert.DeserializeObject<Dictionary<int, List<Pokemon>>>(pokemonStr);
+            pokeDices = JsonConvert.DeserializeObject<List<Pokemon>>(pokemonStr);
             reader.Close();
             Console.WriteLine("Finished reading from JSON...");
             //StreamReader reader = new StreamReader(@"C:\Users\tjtics\Downloads\fun.json");
