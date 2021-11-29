@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\bin\Debug\net5.0\InhertianceDemo.exe
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\bin\Debug\net5.0\InhertianceDemo.deps.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\bin\Debug\net5.0\InhertianceDemo.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\bin\Debug\net5.0\InhertianceDemo.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\bin\Debug\net5.0\InhertianceDemo.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\bin\Debug\net5.0\ref\InhertianceDemo.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\bin\Debug\net5.0\InhertianceDemo.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\obj\Debug\net5.0\InhertianceDemo.csproj.AssemblyReference.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\obj\Debug\net5.0\InhertianceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\obj\Debug\net5.0\InhertianceDemo.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\obj\Debug\net5.0\InhertianceDemo.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\obj\Debug\net5.0\InhertianceDemo.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\obj\Debug\net5.0\InhertianceDemo.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\obj\Debug\net5.0\ref\InhertianceDemo.dll
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\obj\Debug\net5.0\InhertianceDemo.pdb
+C:\Users\tjtics\source\repos\code-sample-2211-tiandreturner\InhertianceDemo\InhertianceDemo\obj\Debug\net5.0\InhertianceDemo.genruntimeconfig.cache
